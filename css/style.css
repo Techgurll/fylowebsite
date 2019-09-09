@@ -245,7 +245,7 @@ button[btn-join2] {
     margin-left: 10rem;
 }
 
-@media(max-width:768px) {
+@media(max-width:500px) {
     .header .nav {
         padding-right: 2rem;
     }
